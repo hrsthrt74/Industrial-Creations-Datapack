@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "#forge:plates/tin", "required": false },
+    { "id": "#c:tin_plates", "required": false },
+    { "id": "#c:plates/tin", "required": false }
+  ]
+}

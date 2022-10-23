@@ -2,13 +2,13 @@
   "type": "create:mixing",
   "ingredients": [
      {
-      "tag": "forge:plates/iron"
+      "tag": "industrial_creations:plates/iron"
     },
     {
-      "tag": "forge:plates/bronze"
+      "tag": "industrial_creations:plates/bronze"
     },
     {
-      "tag": "forge:plates/tin"
+      "tag": "industrial_creations:plates/tin"
     }
   ],
   "results": [
