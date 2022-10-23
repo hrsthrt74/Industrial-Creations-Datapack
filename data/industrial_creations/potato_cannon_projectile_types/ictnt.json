@@ -1,0 +1,8 @@
+{
+  "items": [
+    "ic2:uranium_235"
+  ],
+  "knockback": 0.1,
+  "damage": 5,
+  "reloadticks": 8
+}

@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+     {
+      "item": "ic2:coal_dust"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 125
+    }
+  ],
+  "results": [
+    {
+      "item": "ic2:coal_fuel_dust"
+    }
+  ]
+}

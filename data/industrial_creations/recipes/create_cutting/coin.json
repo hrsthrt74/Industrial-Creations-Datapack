@@ -1,0 +1,13 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "ic2:iron_casing"
+    }
+  ],
+  "results": [
+    {
+      "item": "ic2:coin"
+    }
+  ]
+}

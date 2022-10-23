@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+     {
+      "tag": "forge:dusts/tin"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "item": "ic2:hydrated_tin_dust"
+    }
+  ]
+}

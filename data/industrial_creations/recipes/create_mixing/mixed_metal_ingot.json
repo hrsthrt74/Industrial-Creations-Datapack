@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+     {
+      "tag": "forge:plates/iron"
+    },
+    {
+      "tag": "forge:plates/bronze"
+    },
+    {
+      "tag": "forge:plates/tin"
+    }
+  ],
+  "results": [
+    {
+      "item": "ic2:mixed_metal_ingot"
+    }
+  ],
+  "heatRequirement": "heated"
+}

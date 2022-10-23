@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "ic2:insulated_gold_cable"
+    },
+    {
+      "item": "ic2:rubber"
+    }
+  ],
+  "results": [
+    {
+      "item": "ic2:double_insulated_gold_cable"
+    }
+  ]
+}

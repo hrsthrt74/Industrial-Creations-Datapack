@@ -1,0 +1,13 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "ic2:resin"
+    }
+  ],
+  "results": [
+    {
+      "item": "ic2:resin_sheet"
+    }
+  ]
+}
