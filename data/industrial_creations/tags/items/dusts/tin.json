@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "#forge:dusts/tin", "required": false },
+    { "id": "#c:tin_dusts", "required": false },
+    { "id": "#c:dusts/tin", "required": false }
+  ]
+}
