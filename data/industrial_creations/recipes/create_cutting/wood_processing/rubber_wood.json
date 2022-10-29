@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "ic2:rubber_wood"
+    }
+  ],
+  "results": [
+    {
+      "item": "ic2:stripped_rubber_wood"
+    }
+  ],
+  "processingTime": 50
+}
