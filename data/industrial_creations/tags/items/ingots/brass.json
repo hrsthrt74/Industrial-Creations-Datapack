@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "#forge:ingots/brass", "required": false },
+    { "id": "#c:brass_ingot", "required": false },
+    { "id": "#c:ingots/brass", "required": false }
+  ]
+}

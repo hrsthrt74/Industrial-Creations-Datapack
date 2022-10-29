@@ -1,0 +1,21 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    [
+    {
+      "item": "ic2:stripped_rubber_log"
+    },
+    {
+      "item": "ic2:stripped_rubber_wood"
+    }
+   ],
+    {
+      "tag": "industrial_creations:ingots/copper"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:copper_casing"
+    }
+  ]
+}

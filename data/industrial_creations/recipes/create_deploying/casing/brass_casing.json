@@ -1,0 +1,21 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    [
+    {
+      "item": "ic2:stripped_rubber_log"
+    },
+    {
+      "item": "ic2:stripped_rubber_wood"
+    }
+   ],
+    {
+      "tag": "industrial_creations:ingots/brass"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:brass_casing"
+    }
+  ]
+}
