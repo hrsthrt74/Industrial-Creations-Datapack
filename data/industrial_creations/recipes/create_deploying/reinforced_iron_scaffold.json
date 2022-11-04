@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "ic2:iron_scaffold"
+    },
+    {
+    "item": "ic2:iron_fence"
+   }
+  ],
+  "results": [
+    {
+      "item": "ic2:reinforced_iron_scaffold"
+    }
+  ]
+}

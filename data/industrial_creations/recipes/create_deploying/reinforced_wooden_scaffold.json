@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "ic2:wooden_scaffold"
+    },
+    {
+      "tag": "minecraft:planks"
+  }
+  ],
+  "results": [
+    {
+      "item": "ic2:reinforced_wooden_scaffold"
+    }
+  ]
+}
