@@ -1,0 +1,13 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "ic2:basalt"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:basalt"
+    }
+  ]
+}
