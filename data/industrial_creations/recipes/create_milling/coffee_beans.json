@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ic2:coffee_beans"
+    }
+  ],
+  "results": [
+    {
+      "item": "ic2:coffee_powder",
+      "count": 2
+    },
+    {
+      "item": "ic2:coffee_powder",
+      "chance": 0.8
+    }
+  ],
+  "processingTime": 70
+}

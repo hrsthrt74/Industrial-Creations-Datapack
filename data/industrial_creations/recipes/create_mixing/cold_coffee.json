@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+     {
+      "item": "ic2:empty_mug"
+     },
+     {
+      "item": "ic2:coffee_powder"
+     },
+     {
+      "fluid": "minecraft:water",
+      "amount": 1000
+     }
+  ],
+  "results": [
+    {
+      "item": "ic2:cold_coffee_mug"
+    }
+  ]
+}
