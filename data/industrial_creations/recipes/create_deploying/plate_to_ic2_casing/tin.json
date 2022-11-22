@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "tag": "industrial_creations:plates/tin"
+    },
+    {
+    "item": "ic2:forge_hammer"
+   }
+  ],
+  "results": [
+    {
+      "item": "ic2:tin_casing",
+      "count": 2
+    }
+  ]
+}

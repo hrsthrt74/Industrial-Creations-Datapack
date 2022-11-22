@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "tag": "industrial_creations:plates/copper"
+    },
+    {
+    "item": "ic2:forge_hammer"
+   }
+  ],
+  "results": [
+    {
+      "item": "ic2:copper_casing",
+      "count": 2
+    }
+  ]
+}
