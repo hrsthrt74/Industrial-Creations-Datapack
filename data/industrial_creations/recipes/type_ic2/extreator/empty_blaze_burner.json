@@ -1,0 +1,9 @@
+{
+  "type": "ic2:extractor",
+  "ingredient": {
+    "item": "create:blaze_burner"
+  },
+  "result": {
+    "item": "create:empty_blaze_burner"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "ic2:extractor",
+  "ingredient": {
+    "item": "create:haunted_bell"
+  },
+  "result": {
+    "item": "create:peculiar_bell"
+  }
+}
