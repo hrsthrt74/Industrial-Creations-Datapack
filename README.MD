@@ -9,8 +9,11 @@ This datapack hasn't been finished yet. When it's ready, a release will be uploa
 
 ## FAQ
 - Fabric? Forge?
+
   Both. This datapack will try to be compactible as possible for both Fabric and Forge.
+  
 - I want XXX feature!
+
   Please say about it at the [issues page](https://github.com/hrsthrt74/Industrial-Creations-Datapack/issues).
 
 ## Contributors
