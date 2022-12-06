@@ -1,0 +1,33 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "industrial_creations:ingots/iron"
+  },
+  "transitionalItem": {
+    "item": "minecraft:iron_ingot"
+  },
+  "sequence":[
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "tag": "industrial_creations:ingots/iron"
+        },
+        {
+          "item": "ic2:copper_cable"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:iron_ingot"
+        }
+      ]
+    }],
+  "results": [
+    {
+      "item": "ic2:coil",
+      "count": 1
+    }
+  ],
+  "loops": 8
+}

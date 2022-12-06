@@ -1,0 +1,10 @@
+{
+  "type": "ic2:macerator",
+  "ingredient": {
+    "item": "create:rose_quartz_block",
+    "count": 2
+  },
+  "result": {
+    "item": "create:rose_quartz"
+  }
+}
