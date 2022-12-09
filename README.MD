@@ -19,7 +19,9 @@ This datapack hasn't been finished yet. When it's ready, a release will be uploa
 - Support for IC2 Classic?
 
   This datapack is designed for IC2(Exp) and it doesn't support IC2 Classic.
+
   Also, there's no plan to make a classic-compatible one.
+  
   Since this datapack is under the MIT license, you can make a fork of this repo to make a classic-compatible one. 
 
 ## Contributors
