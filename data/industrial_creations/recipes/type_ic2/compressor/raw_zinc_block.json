@@ -1,10 +1,10 @@
 {
   "type": "ic2:compressor",
   "ingredient": {
-    "item": "creaete:raw_zionc",
+    "item": "create:raw_zinc",
     "count": 9
   },
   "result": {
-    "item": "create:zinc_block"
+    "item": "create:raw_zinc_block"
   }
 }
