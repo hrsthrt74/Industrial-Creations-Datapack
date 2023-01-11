@@ -5,7 +5,9 @@
 Industrial Creations Datapack (or ICDP For short) is a Minecraft datapack to enhance the recipe compatibility between Create mod and Industrial Craft 2 mod.
 
 ## Usage
-This datapack hasn't been finished yet. When it's ready, a release will be uploaded. Thank you for your patience!
+Please put the .zip file into saves/[Your Save]/datapacks. Or you can use mods such as Openloader.
+
+You can download this datapack in the [Releases page](https://github.com/hrsthrt74/Industrial-Creations-Datapack/releases) or go to [Modrinth](https://modrinth.com/mod/industrial-creations-datapack).
 
 ## FAQ
 - Fabric? Forge?
